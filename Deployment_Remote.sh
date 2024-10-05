@@ -4,7 +4,7 @@
 ssh -i key.pem ec2-user@44.242.217.99 "mkdir -p /home/ec2-user/task-tracker"
 
 # Transfer the project files to the remote VM
-scp -i key.pem -r /home/mrwan/Desktop/Giza_Systems/task-tracker/* ec2-user@44.242.217.99:/home/ec2-user/task-tracker
+scp -i key.pem -r /home/mrwan/Desktop/Giza_Systems/task-tracker/code/* ec2-user@44.242.217.99:/home/ec2-user/task-tracker
 
 echo "Code transferred successfully to 44.242.217.99."
 
