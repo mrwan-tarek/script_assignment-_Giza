@@ -63,4 +63,3 @@ Feel free to contribute to the development of this project. Fork the repository,
 - Vue.js community and documentation.
 - Icons by [FontAwesome](https://fontawesome.com/).
 - Idea from [Vue.js Examples](https://vuejsexamples.com/)
-# script_assignment-_Giza
